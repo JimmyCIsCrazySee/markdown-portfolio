@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Youkai](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mitsukuni_defying_the_skeleton_spectre_invoked_by_princess_Takiyasha.jpg/1920px-Mitsukuni_defying_the_skeleton_spectre_invoked_by_princess_Takiyasha.jpg)
