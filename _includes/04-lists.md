@@ -5,3 +5,8 @@
   B) Order 2 sub 2
 * Wark
 * Kweh
+
+_Italic Editing_
+*Bold Editing*
+**Bold Editing**
+_**Bit o' both**_
